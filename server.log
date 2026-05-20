@@ -1,0 +1,19 @@
+[Fri Feb 27 12:36:36 2026] PHP 8.3.6 Development Server (http://localhost:8080) started
+[Fri Feb 27 12:36:52 2026] 127.0.0.1:51422 Accepted
+[Fri Feb 27 12:36:52 2026] 127.0.0.1:51422 [201]: POST /clientes
+[Fri Feb 27 12:36:52 2026] 127.0.0.1:51422 Closing
+[Fri Feb 27 12:36:57 2026] 127.0.0.1:51434 Accepted
+[Fri Feb 27 12:36:57 2026] 127.0.0.1:51434 [201]: POST /clientes
+[Fri Feb 27 12:36:57 2026] 127.0.0.1:51434 Closing
+[Fri Feb 27 12:36:57 2026] 127.0.0.1:51448 Accepted
+[Fri Feb 27 12:36:57 2026] 127.0.0.1:51448 [201]: POST /clientes
+[Fri Feb 27 12:36:57 2026] 127.0.0.1:51448 Closing
+[Fri Feb 27 12:36:57 2026] 127.0.0.1:51458 Accepted
+[Fri Feb 27 12:36:57 2026] 127.0.0.1:51458 [200]: GET /clientes
+[Fri Feb 27 12:36:57 2026] 127.0.0.1:51458 Closing
+[Fri Feb 27 12:37:01 2026] 127.0.0.1:51466 Accepted
+[Fri Feb 27 12:37:01 2026] 127.0.0.1:51466 [400]: POST /clientes
+[Fri Feb 27 12:37:01 2026] 127.0.0.1:51466 Closing
+[Fri Feb 27 12:37:06 2026] 127.0.0.1:53556 Accepted
+[Fri Feb 27 12:37:06 2026] 127.0.0.1:53556 [201]: POST /clientes
+[Fri Feb 27 12:37:06 2026] 127.0.0.1:53556 Closing
