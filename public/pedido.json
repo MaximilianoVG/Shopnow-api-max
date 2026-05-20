@@ -1,0 +1,93 @@
+[
+    {
+        "id_pedido": 1,
+        "id_cliente": 1,
+        "productos": [
+            {
+                "id_producto": 1,
+                "nombre": "Laptop Gamer",
+                "cantidad": 1
+            }
+        ],
+        "total": 15000,
+        "fecha_compra": "2026-03-02 15:05:57"
+    },
+    {
+        "id_pedido": 2,
+        "id_cliente": 1,
+        "productos": [
+            {
+                "id_producto": 1,
+                "nombre": "Laptop Gamer",
+                "cantidad": 1
+            }
+        ],
+        "total": 15000,
+        "fecha_compra": "2026-03-02 16:37:27"
+    },
+    {
+        "id_pedido": 3,
+        "id_cliente": 9,
+        "productos": [
+            {
+                "id_producto": 1,
+                "nombre": "Laptop Gamer",
+                "cantidad": 1
+            }
+        ],
+        "total": 15000,
+        "fecha_compra": "2026-03-02 16:37:43"
+    },
+    {
+        "id_pedido": 4,
+        "id_cliente": 9,
+        "productos": [
+            {
+                "id_producto": 10,
+                "nombre": "psp vita",
+                "cantidad": 1
+            }
+        ],
+        "total": 2600,
+        "fecha_compra": "2026-03-02 16:53:04"
+    },
+    {
+        "id_pedido": 5,
+        "id_cliente": 9,
+        "productos": [
+            {
+                "id_producto": 10,
+                "nombre": "psp vita",
+                "cantidad": 1
+            }
+        ],
+        "total": 2600,
+        "fecha_compra": "2026-03-02 16:53:07"
+    },
+    {
+        "id_pedido": 6,
+        "id_cliente": 9,
+        "productos": [
+            {
+                "id_producto": 10,
+                "nombre": "psp vita",
+                "cantidad": 1
+            }
+        ],
+        "total": 2600,
+        "fecha_compra": "2026-03-02 16:53:08"
+    },
+    {
+        "id_pedido": 7,
+        "id_cliente": 9,
+        "productos": [
+            {
+                "id_producto": 10,
+                "nombre": "psp vita",
+                "cantidad": 1
+            }
+        ],
+        "total": 2600,
+        "fecha_compra": "2026-03-02 16:53:09"
+    }
+]
